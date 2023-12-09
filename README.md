@@ -14,8 +14,12 @@
 
 # 📊 GitHub Stats:
 
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohosin2126&theme=blue_green)
 
+
+</div>
 
 <div align="center">
 
