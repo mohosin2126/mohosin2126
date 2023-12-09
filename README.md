@@ -4,6 +4,10 @@
 <br>
 
 
+<h1 align="center">Hi 👋, I'm Md Mohosin Ali</h1>
+<h3 align="center">A Passionate MERN stack Developer</h3>
+
+<br>
 
 
 ## 👀 Current overview:
