@@ -1,9 +1,10 @@
 
 
 
-## 👀 Current overview
+## 👀 Current overview:
+<br>
 
-- 🔭 **Working On:** Currently, I'm deeply involved in MERN stack web development.
+ - 🔭 **Working On:** Currently, I'm deeply involved in MERN stack web development.
 
 - 🌱 **Exploring:** I'm in the exploration phase, diving deeper into MongoDB and Next.js. 
 
@@ -13,7 +14,7 @@
 
 - ⚡ **Fun Fact:**  I watch web series and play outdoor game 
 
-
+<br>
 
 
 ## 🌐 Connect with Me: 
