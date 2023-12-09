@@ -1,18 +1,25 @@
-## 🌐 Socials: 
+## 🌐 Connect with Me: 
+<br>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohosin2126)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohosin2126@gmail.com)
 
 
+</div>
+<br>
 
 # 💻 Technologies that I know:
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,javascript,firebase,express,mongodb,nodejs,git,github" />
   </a>
 </p>
 
+<br>
 
 # 📊 GitHub Stats:
+<br>
 
 <div align="center">
 
