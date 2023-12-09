@@ -27,6 +27,14 @@
 </div>
 <br>
 
+## GitHub Current Status: 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mohosin2126&theme=whatsapp-dark2&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+
+
+
 # 💻 Technologies that I know:
 <br>
 <p align="center">
@@ -37,7 +45,7 @@
 
 <br>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Overview:
 <br>
 
 <div align="center">
