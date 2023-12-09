@@ -1,3 +1,21 @@
+
+
+
+## 👀 Current overview
+
+- 🔭 **Working On:** Currently, I'm deeply involved in MERN stack web development.
+
+- 🌱 **Exploring:** I'm in the exploration phase, diving deeper into MongoDB and Next.js. 
+
+- 👯 **Looking For:** Actively seeking collaboration opportunities on innovative projects. If you have a unique idea or need a passionate MERN stack developer to contribute, I'm ready to join forces and bring it to fruition.
+
+- 🤔 **Trying To:** My ongoing efforts are dedicated to continuous improvement and skill expansion. 
+
+- ⚡ **Fun Fact:**  I watch web series and play outdoor game 
+
+
+
+
 ## 🌐 Connect with Me: 
 <br>
 <div align="center">
