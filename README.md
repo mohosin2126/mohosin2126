@@ -22,9 +22,23 @@
 
 </div>
 
+<div>
+
+<div align="left">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohosin2126&theme=blue_green)
 
+</div>
+ 
+<div align="right">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohosin2126&theme=blue_green)
+
+
+</div>
+
+</div>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohosin2126&theme=blue_green)
 
