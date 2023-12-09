@@ -16,15 +16,16 @@
 
 <div align="center">
 
-[![Profile Details](https://raw.githubusercontent.com/Mohosin2126/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohosin2126&theme=blue_green)
 
-[![Repos Per Language](https://raw.githubusercontent.com/Mohosin2126/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohosin2126&theme=blue_green)
 
-[![Most Commit Language](https://raw.githubusercontent.com/Mohosin2126/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohosin2126&theme=blue_green)
 
-[![Stats](https://raw.githubusercontent.com/Mohosin2126/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohosin2126&theme=blue_green)
 
-[![Productive Time](https://raw.githubusercontent.com/Mohosin2126/github-profile-summary-cards-example/master/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohosin2126&theme=blue_green&utcOffset=8)
+
 
 </div>
 
