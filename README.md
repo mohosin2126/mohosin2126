@@ -27,7 +27,7 @@
 </div>
 <br>
 
-## GitHub Current Status: 
+## 📈 GitHub Current Status: 
 
 <div align="center">
 
