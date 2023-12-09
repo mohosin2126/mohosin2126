@@ -14,30 +14,12 @@
 
 # 📊 GitHub Stats:
 
-<div >
-
-<div align="center">
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohosin2126&theme=blue_green)
-
-</div>
-
-<div>
-
-<div align="left">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohosin2126&theme=blue_green)
 
-</div>
- 
-<div align="right">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohosin2126&theme=blue_green)
-
-
-</div>
-
-</div>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohosin2126&theme=blue_green)
@@ -45,7 +27,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohosin2126&theme=blue_green&utcOffset=8)
 
 
-</div>
 
 
 
