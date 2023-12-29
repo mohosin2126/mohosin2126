@@ -52,7 +52,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,javascript,firebase,express,mongodb,nodejs,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,javascript,firebase,express,mongodb,nodejs,git,github,vscode,figma" />
   </a>
 </p>
 
