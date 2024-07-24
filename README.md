@@ -1,14 +1,11 @@
 
-
 ![](https://komarev.com/ghpvc/?username=mohosin2126&abbreviated=true)
 <br>
-
 
 <h1 align="center">Hi 👋, I'm Md Mohosin Ali</h1>
 <h3 align="center">A Passionate MERN stack Developer</h3>
 
 <br>
-
 
 ## 👀 Current overview:
 <br>
@@ -24,7 +21,6 @@
 - ⚡ **Fun Fact:**  I watch web series and play outdoor game 
 
 <br>
-
 
 ## 🌐 Connect with Me: 
 <br>
@@ -44,10 +40,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mohosin2126&theme=whatsapp-dark2&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
-
 </div>
-
 
 
 # 💻 Technologies that I know:
@@ -66,7 +59,6 @@
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohosin2126&theme=blue_green)
-
 
 </div>
 
