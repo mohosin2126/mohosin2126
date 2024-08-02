@@ -10,13 +10,13 @@
 ## 👀 Current overview:
 <br>
 
- - 🔭 **Working On:**Building dynamic web applications using React.js and Next.js, while focusing on frontend development. I utilize GraphQL, Axios, and TanStack Query for efficient data management and Material UI for creating intuitive and visually appealing interfaces.
+ - 🔭 **Working On:** Building dynamic web applications using React.js and Next.js, while focusing on frontend development. I utilize GraphQL, Axios, and TanStack Query for efficient data management and Material UI for creating intuitive and visually appealing interfaces.
 
 - 🌱 **Exploring:** Deepening my knowledge in backend technologies and enhancing my skills with various UI frameworks and data management tools. 
 
 - 👯 **Looking For:** Actively seeking collaboration opportunities on innovative projects. If you have a unique idea or need a passionate MERN stack developer to contribute, I'm ready to join forces and bring it to fruition.
 
-- 🤔 **Trying To:**Opportunities to collaborate on innovative projects. If you need a skilled frontend developer to bring your vision to life, I’m eager to contribute.
+- 🤔 **Trying To:** Opportunities to collaborate on innovative projects. If you need a skilled frontend developer to bring your vision to life, I’m eager to contribute.
 
 - ⚡ **Fun Fact:**  I watch web series and play outdoor game 
 
