@@ -3,7 +3,7 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Md Mohosin Ali</h1>
-<h3 align="center">A Dedicated Full Stack Developer with a Focus on Frontend Development</h3>
+<h3 align="center">A Dedicated Full Stack Developer </h3>
 
 <br>
 
