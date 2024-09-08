@@ -14,7 +14,7 @@
 
 - 🌱 **Exploring:** Deepening my knowledge in backend technologies and enhancing my skills with various UI frameworks and data management tools. 
 
-- 👯 **Looking For:** Actively seeking collaboration opportunities on innovative projects. If you have a unique idea or need a passionate MERN stack developer to contribute, I'm ready to join forces and bring it to fruition.
+- 👯 **Looking For:** Actively seeking collaboration opportunities on innovative projects. If you have a unique idea or need a passionate Fullstack developer to contribute, I'm ready to join forces and bring it to fruition.
 
 - 🤔 **Trying To:** Opportunities to collaborate on innovative projects. If you need a skilled frontend developer to bring your vision to life, I’m eager to contribute.
 
