@@ -10,6 +10,8 @@
 ## 👀 Current Overview:
 
 <br>
+
+
 - 🔭 **Working On:** Competitive programming with a focus on C, C++, DSA. In parallel, I’m working as a Full Stack Developer, building web applications using React, Next.js, Node.js, Express, MongoDB, PostgreSQL, and MySQL. I also utilize GraphQL, Axios, and TanStack Query for data management and Material UI for creating engaging interfaces.
 
 - 🌱 **Exploring:** Deepening my backend development expertise and expanding my skills in various UI frameworks, databases, and optimization techniques.
@@ -18,7 +20,7 @@
 
 - 🤔 **Trying To:** Collaborate on projects that demand a mix of algorithmic skills and full-stack development. Whether it’s competitive programming or building robust web applications, I’m ready to bring your ideas to life.
 
--⚡ **Fun Fact:** I enjoy watching web series and playing outdoor games!
+- ⚡ **Fun Fact:** I enjoy watching web series and playing outdoor games!
 
 
 <br>
