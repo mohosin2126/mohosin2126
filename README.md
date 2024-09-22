@@ -3,11 +3,12 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Md Mohosin Ali</h1>
-<h3 align="center">A Dedicated Full Stack Developer </h3>
+<h3 align="center">A Passionate Competitive Programmer & Full Stack Developer</h3>
 
 <br>
 
-👀 Current Overview:
+## 👀 Current Overview:
+
 <br>
 🔭 Working On: Competitive programming with a focus on C, C++, DSA. In parallel, I’m working as a Full Stack Developer, building web applications using React, Next.js, Node.js, Express, MongoDB, PostgreSQL, and MySQL. I also utilize GraphQL, Axios, and TanStack Query for data management and Material UI for creating engaging interfaces.
 
