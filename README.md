@@ -52,7 +52,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,react,redux,nextjs,javascript,firebase,express,nodejs,mongodb,mysql,postgres,sequelize,git,github,npm,vscode,webstorm,figma,netlify,vercel&perline=12" />
+   <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,react,redux,nextjs,javascript,firebase,express,nodejs,mongodb,mysql,postgres,sequelize,graphql&perline=16" alt="Technologies">
+  </a>
+</p>
+
+<br>
+# 🛠️ Tools I Use:
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,webstorm,postman,figma,netlify,vercel&perline=12" alt="Tools">
   </a>
 </p>
 
