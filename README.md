@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,react,redux,nextjs,javascript,firebase,express,nodejs,mongodb,mysql,postgres,sequelize,graphql&perline=16" alt="Technologies">
+   <img src="https://skillicons.dev/icons?i=c,cpp,javascript,tailwind,react,nextjs,firebase,express,nodejs,mongodb,mysql,postgres,sequelize,graphql&perline=8" alt="Technologies">
   </a>
 </p>
 
