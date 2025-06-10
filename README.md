@@ -12,7 +12,7 @@
 <br>
 
 
-- 🔭 **Working On:** Competitive programming with a focus on C, C++, DSA. In parallel, I’m working as a Full Stack Developer, building web applications using React, Next.js, Node.js, Express, MongoDB, PostgreSQL, and MySQL. I also utilize GraphQL, Axios, and TanStack Query for data management and Material UI for creating engaging interfaces.
+- 🔭 **Working On:** Competitive programming with a focus on C, C++, DSA. In parallel, I’m working as a Full Stack Developer, building web applications using React, Next.js, Vue.js, Node.js, Express, MongoDB, PostgreSQL, and MySQL. I also utilize GraphQL, Axios, and TanStack Query for data management and Material UI for creating engaging interfaces.
 
 - 🌱 **Exploring:** Deepening my backend development expertise and expanding my skills in various UI frameworks, databases, and optimization techniques.
 
@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=c,cpp,javascript,tailwind,react,nextjs,firebase,express,nodejs,mongodb,mysql,postgres,sequelize,graphql&perline=7" alt="Technologies">
+   <img src="https://skillicons.dev/icons?i=c,cpp,javascript,tailwind,react,nextjs,vue,firebase,express,nodejs,mongodb,mysql,postgres,sequelize,graphql&perline=7" alt="Technologies">
   </a>
 </p>
 
