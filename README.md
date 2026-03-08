@@ -1,9 +1,10 @@
 
+
 ![](https://komarev.com/ghpvc/?username=mohosin2126&abbreviated=true)
 <br>
 
 <h1 align="center">Hi 👋, I'm Md Mohosin Ali</h1>
-<h3 align="center">A Passionate Competitive Programmer & Full Stack Developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 <br>
 
@@ -12,33 +13,28 @@
 <br>
 
 
-- 🔭 **Working On:** Competitive programming with a focus on C, C++, DSA. In parallel, I’m working as a Full Stack Developer, building web applications using React, Next.js, Vue.js, Node.js, Express, MongoDB, PostgreSQL, and MySQL. I also utilize GraphQL, Axios, and TanStack Query for data management and Material UI for creating engaging interfaces.
+- 🔭 **Working On:** Building scalable, high-performance web applications with a strong focus on full stack development. I work with React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, MySQL, REST APIs, GraphQL, Tailwind CSS, and modern UI libraries, while also staying engaged with competitive programming and problem solving using C, C++, JavaScript, and TypeScript.
 
-- 🌱 **Exploring:** Deepening my backend development expertise and expanding my skills in various UI frameworks, databases, and optimization techniques.
+- 🌱 **Exploring:** Modern full stack architecture, backend optimization, and better AI-assisted development workflows to improve productivity and code quality.
 
-- 👯 **Looking For:** Opportunities to collaborate on innovative projects. With my expertise in Full Stack development and competitive programming, I’m eager to contribute to challenging projects that require both problem-solving and software engineering skills.
+- 👯 **Looking For:** Opportunities to collaborate on impactful products where I can contribute as a full stack developer.
 
-- 🤔 **Trying To:** Collaborate on projects that demand a mix of algorithmic skills and full-stack development. Whether it’s competitive programming or building robust web applications, I’m ready to bring your ideas to life.
+- 🤔 **Trying To:** Build visually compelling user interfaces backed by robust and maintainable backend systems.
 
-- ⚡ **Fun Fact:** I enjoy watching web series and playing outdoor games!
+- ⚡ **Fun Fact:** I enjoy solving development challenges, improving user experiences, and learning new tools that make building faster and smarter.
 
-
+## 🌐 Connect with Me:
 <br>
 
-## 🌐 Connect with Me: 
-<br>
 <div align="center">
-
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@mohosinshah.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohosin2126)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mohosin2126)
-
-
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/773225738660216842)
 </div>
-<br>
 
-## 📈 GitHub Current Status: 
+## 📈 GitHub Current Status:
+<br>
 
 <div align="center">
 
@@ -46,30 +42,29 @@
 
 </div>
 
-
 # 💻 Technologies that I know:
-
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=c,cpp,javascript,tailwind,react,nextjs,vue,firebase,express,nodejs,mongodb,mysql,postgres,sequelize,graphql&perline=7" alt="Technologies">
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,bootstrap,graphql,redux,prisma&perline=8" alt="Technologies">
   </a>
 </p>
-
-<br>
 
 # 🛠️ Tools I Use:
-
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,webstorm,postman,figma,netlify,vercel&perline=12" alt="Tools">
+    <img src="https://skillicons.dev/icons?i=git,npm,vscode,webstorm,netlify,vercel,figma&perline=7" alt="Tools">
   </a>
 </p>
 
-<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,graphql,prisma,firebase&perline=7" alt="Platforms and libraries">
+  </a>
+</p>
 
 # 📊 GitHub Overview:
 <br>
@@ -86,10 +81,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohosin2126&theme=blue_green)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohosin2126&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohosin2126&theme=blue_green&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohosin2126&theme=blue_green&utcOffset=6)
 
 </div>
-
-
-
-
